@@ -1,0 +1,25 @@
+[parity]
+chain = "spec.json"
+base_path = "payscan"
+
+[network]
+port = 30300
+reserved_peers = "reserved_peer"
+
+[rpc]
+disable = true
+
+[websockets]
+disable = true
+
+[account]
+password = ["node0.pwd"]
+
+[mining]
+engine_signer = "0xff15084a893a968bc56661a9d3efa1bf941e2a4a"
+reseal_on_txs = "none"
+force_sealing = true
+
+[footprint]
+tracing = "on"
+pruning = "archive"
