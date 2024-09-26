@@ -1,4 +1,4 @@
-# Run a PYZ Validator
+# Run a PayScan Validator
 ## Setting up a node
 1. Git clone https://github.com/PYZOfficial/Become-Validator
 
