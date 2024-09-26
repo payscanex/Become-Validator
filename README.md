@@ -1,6 +1,6 @@
 # Run a PayScan Validator
 ## Setting up a node
-1. Git clone https://github.com/PYZOfficial/Become-Validator
+1. Git clone https://github.com/payscanex/Become-Validator.git
 
 2. Create an Account
 
