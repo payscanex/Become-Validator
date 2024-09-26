@@ -34,7 +34,7 @@ reseal_on_txs = "none"
     Stake
 
     To stake PYZ coin, all you should do is sending your PYZ coin to the PYZ Consensus contract address over the PYZ network from the validator address.
-    The PYZ Consensus contract address: 0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2
+    The PYZ Consensus contract address: 0x17295c5446E147D8BD7e95dd0f5b5d7877f0672b
     The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to PYZ and send the PYZ coin to the Consensus contract address.
 
     You can find your key-store (containing your private key) and the password for the created account in:
